@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Esercizio_Informatica_Verifica\bin\Debug\Esercizio_Informatica_Verifica.exe.config
+C:\Users\Studente\Desktop\Esercizio_Informatica_Verifica\bin\Debug\Esercizio_Informatica_Verifica.exe
+C:\Users\Studente\Desktop\Esercizio_Informatica_Verifica\bin\Debug\Esercizio_Informatica_Verifica.pdb
+C:\Users\Studente\Desktop\Esercizio_Informatica_Verifica\obj\Debug\Esercizio_Informatica_Verifica.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Esercizio_Informatica_Verifica\obj\Debug\Esercizio_Informatica_Verifica.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Esercizio_Informatica_Verifica\obj\Debug\Esercizio_Informatica_Verifica.exe
+C:\Users\Studente\Desktop\Esercizio_Informatica_Verifica\obj\Debug\Esercizio_Informatica_Verifica.pdb
